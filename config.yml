@@ -1,0 +1,6 @@
+---
+poll_every: 1 # second
+processes:
+  firefox: single
+  chrome: multi
+  chromium-browse: multi
